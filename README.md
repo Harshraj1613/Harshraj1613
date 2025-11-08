@@ -28,19 +28,10 @@
 ### 📦 Frameworks & Libraries  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🛢 Databases  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🖥 IDEs / Editors  
+### 🛠 Tools / Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
-### 🛠 Tools / Platforms  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
@@ -60,18 +51,15 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshraj1613&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshraj1613&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshraj1613&layout=compact&theme=radical" alt="langs" />
-</p>
+## 📊 GitHub Stats (Real)
+<!--START_GITHUB_STATS-->
+**GitHub Stats (Real)**  
+- **Public Repositories:** 12  
+- **Followers:** 34  
+- **Following:** 5  
+- **Last Updated:** 2025-11-09
+<!--END_GITHUB_STATS-->
 
-<p align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Harshraj1613&theme=radical)
-</p>
-
----
 
 ⭐ From [Harsh Raj Mishra](https://github.com/Harshraj1613)
 
