@@ -1,6 +1,6 @@
 <!-- Typing SVG Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F707&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+H!;Full-Stack+Developer+in+Progress;Web+Dev+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F707&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Raj!;Full-Stack+Developer+in+Progress;Web+Dev+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,10 +9,10 @@
 
 ---
 
-## ⚡ About Me 
--  Full-Stack Developer 
--  Currently learning *React.js,Node.js & Angular.js*  
--  Fun fact: I create bugs faster than I fix them (but I’m getting better! 😉)  
+## ⚡ About Me
+- Full-Stack Developer with a passion for creating interactive web experiences.  
+- Currently learning **React.js, Node.js & Angular.js**.  
+- Fun fact: I create bugs faster than I fix them… but I’m getting better! 😉  
 
 ---
 
@@ -25,10 +25,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-### 📦 Frameworks / Libraries  
+### 📦 Frameworks & Libraries  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🛢 Databases  
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -39,9 +39,17 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ### 🛠 Tools / Platforms  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+## 🚀 Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Portfolio Website](https://github.com/Harshraj1613/portfolio) | Personal portfolio to showcase projects | React, Tailwind |
+| [Chat App](https://github.com/Harshraj1613/chat-app) | Real-time messaging app | Node.js, Socket.io |
+| [Blog Platform](https://github.com/Harshraj1613/blog-platform) | A blog platform with user auth | Django, SQLite |
 
 ---
 
@@ -52,7 +60,6 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshraj1613&show_icons=true&theme=radical" alt="stats" />
@@ -60,6 +67,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshraj1613&layout=compact&theme=radical" alt="langs" />
 </p>
 
+<p align="center">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Harshraj1613&theme=radical)
+</p>
+
 ---
 
-⭐ From Harsh Raj Mishra(https://github.com/Harshraj1613)
+⭐ From [Harsh Raj Mishra](https://github.com/Harshraj1613)
+
