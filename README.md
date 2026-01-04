@@ -40,16 +40,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ansh_1613/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshmishra22912@gmail.com)  
 
----
-
-## 📊 GitHub Stats (Real)
-<!--START_GITHUB_STATS-->
-**GitHub Stats (Real)**  
-- **Public Repositories:** 12  
-- **Followers:** 34  
-- **Following:** 5  
-- **Last Updated:** 2025-11-09
-<!--END_GITHUB_STATS-->
 
 
 ⭐ From [Harsh Raj Mishra](https://github.com/Harshraj1613)
