@@ -35,15 +35,6 @@
 
 ---
 
-## 🚀 Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Portfolio Website](https://github.com/Harshraj1613/portfolio) | Personal portfolio to showcase projects | React, Tailwind |
-| [Chat App](https://github.com/Harshraj1613/chat-app) | Real-time messaging app | Node.js, Socket.io |
-| [Blog Platform](https://github.com/Harshraj1613/blog-platform) | A blog platform with user auth | Django, SQLite |
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-raj-mishra-4743a7326/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ansh_1613/)  
